@@ -110,4 +110,4 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 **Aksh**  
 Front-End Engineer, UI/UX Designer, and Python Developer  
-Created and maintained by a passionate 9th-grade developer from Delhi.
+Created and maintained by a passionate 10th-grade developer from Delhi.
